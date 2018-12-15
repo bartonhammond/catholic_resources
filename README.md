@@ -25,7 +25,7 @@
 </table>
 
 
-##Challenging Sites
+## Challenging Sites
 <table>
 <tr><td width=450px bgcolor='black'><img src='churchMilitant.png'></td><td><a href='https://www.churchmilitant.com/video/archive/the-vortex'>The Vortex</a></td></tr>
 <tr><td bgcolor=' #242c34'><img src='./Ronrolheiser.png'></td><td><a href='http://ronrolheiser.com/archive/'>Ron Rolheiser</a></td></tr>
