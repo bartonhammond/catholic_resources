@@ -4,24 +4,22 @@
 
 ## Daily preparations
 
-<table>
-<tr><td width=500px><img src="./Creighton.jpg"></td><td><a href='http://onlineministries.creighton.edu/CollaborativeMinistry/daily.html'>Reflection Site</a></td></tr>
+Organization | Link
+------ | ---------
+![image](./Creighton.jpg)|[Reflection Site](http://onlineministries.creighton.edu/CollaborativeMinistry/daily.html)
+![image](./USCCB.gif)|[Daily Reflections](http://www.usccb.org/bible/reflections/)
 
-<tr><td><img src='./USCCB.gif'></td><td><a href='http://www.usccb.org/bible/reflections/'>Daily Reflections</a></td></tr>
-</table>
 
 ## News Sites
-<table>
-<tr><td width=500px><img src='./lsn-logo.png'></td><td width=100px><a href='https://www.lifesitenews.com/all/today'>Life Site</a></td></tr>
-
-<tr><td bgcolor='blue'><img src='./catholic_culture.png'></td><td><a href='https://www.catholicculture.org/news/'>Catholic Culture</a></td></tr>
-<tr><td><img src='./catholic_herald.png'></td><td><a href='https://catholicherald.co.uk/section/news/'>Catholic Herald</a></td></tr>
-<tr><td><img src='./ewtnLiveTelevisionLogo.jpg'></td><td><a href='https://www.ewtn.com/tv/live/ewtnnewsnightly.asp'>EWTN Nightly</a></td></tr>
-<tr><td><img src='./ncregister.png'></td><td><a href='http://www.ncregister.com/'>Natholic Catholic</a></td></tr>
-<tr><td bgcolor='black'><img src='churchMilitant.png'></td><td><a href='https://www.churchmilitant.com/search/latest'>Latest</a></td></tr>
-<tr><td><img src='./wanderer.png'></td><td><a href='http://thewandererpress.com/'>The Wanderer</a></td></tr>
-</table>
-
+Organization | Link
+------ | ---------
+![image](./lsn-logo.png)|[Life Site](https://www.lifesitenews.com/all/today)
+![image](./catholic_culture.png)|[Catholic Culture](https://www.catholicculture.org/news/)
+![image](./catholic_herald.png)|[Catholic Herald](https://catholicherald.co.uk/section/news/)
+![image](./ewtnLiveTelevisionLogo.jpg)|[EWTN Nightly</a></td></tr>](https://www.ewtn.com/tv/live/ewtnnewsnightly.asp)
+![image](./ncregister.png)|[Natholic Catholic](http://www.ncregister.com/)
+![image](./churchMilitant.png)|[Latest](https://www.churchmilitant.com/search/latest)
+![image](./wanderer.png)|[The Wanderer</a></td></tr>](http://thewandererpress.com/)
 
 ## Challenging Sites
 <table>
