@@ -1,8 +1,6 @@
 # Catholic Resources
 
-![MacDown logo](https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/5/5e/Emblem_of_the_Holy_See_usual.png/revision/latest?cb=20150503225419)
-
-
+![Catholic](https://vignette.wikia.nocookie.net/to-aru-majutsu-no-index/images/5/5e/Emblem_of_the_Holy_See_usual.png/revision/latest?cb=20150503225419)
 
 ## Daily preparations
 
