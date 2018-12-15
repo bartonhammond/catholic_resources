@@ -5,14 +5,14 @@
 ## Daily preparations
 
 <table>
-<tr><td width=450px><img src="./Creighton.jpg"></td><td><a href='http://onlineministries.creighton.edu/CollaborativeMinistry/daily.html'>Reflection Site</a></td></tr>
+<tr><td width=500px><img src="./Creighton.jpg"></td><td><a href='http://onlineministries.creighton.edu/CollaborativeMinistry/daily.html'>Reflection Site</a></td></tr>
 
 <tr><td><img src='./USCCB.gif'></td><td><a href='http://www.usccb.org/bible/reflections/'>Daily Reflections</a></td></tr>
 </table>
 
 ## News Sites
 <table>
-<tr><td width=450px><img src='./lsn-logo.png'></td><td><a href='https://www.lifesitenews.com/all/today'>Life Site</a></td></tr>
+<tr><td width=500px><img src='./lsn-logo.png'></td><td width=100px><a href='https://www.lifesitenews.com/all/today'>Life Site</a></td></tr>
 
 <tr><td bgcolor='blue'><img src='./catholic_culture.png'></td><td><a href='https://www.catholicculture.org/news/'>Catholic Culture</a></td></tr>
 <tr><td><img src='./catholic_herald.png'></td><td><a href='https://catholicherald.co.uk/section/news/'>Catholic Herald</a></td></tr>
@@ -25,6 +25,6 @@
 
 ## Challenging Sites
 <table>
-<tr><td width=450px bgcolor='black'><img src='churchMilitant.png'></td><td><a href='https://www.churchmilitant.com/video/archive/the-vortex'>The Vortex</a></td></tr>
+<tr><td width=500px bgcolor='black'><img src='churchMilitant.png'></td><td><a href='https://www.churchmilitant.com/video/archive/the-vortex'>The Vortex</a></td></tr>
 <tr><td bgcolor=' #242c34'><img src='./Ronrolheiser.png'></td><td><a href='http://ronrolheiser.com/archive/'>Ron Rolheiser</a></td></tr>
 </table>
