@@ -14,7 +14,7 @@ Organization | Link
 Organization | Link
 ------ | ---------
 ![image](./lsn-logo.png)|[Life Site](https://www.lifesitenews.com/all/today)
-![image](./catholic_culture.png)|[Catholic Culture](https://www.catholicculture.org/news/)
+![image]<span style='color:blue'>(./catholic_culture.png)</span>|[Catholic Culture](https://www.catholicculture.org/news/)
 ![image](./catholic_herald.png)|[Catholic Herald](https://catholicherald.co.uk/section/news/)
 ![image](./ewtnLiveTelevisionLogo.jpg)|[EWTN Nightly</a></td></tr>](https://www.ewtn.com/tv/live/ewtnnewsnightly.asp)
 ![image](./ncregister.png)|[Natholic Catholic](http://www.ncregister.com/)
