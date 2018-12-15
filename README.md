@@ -24,5 +24,6 @@ Organization | Link
 ## Challenging Sites
 Organization | Link
 ------ | ---------
-![image](./churchMilitant.png)|[The Vortex](https://www.churchmilitant.com/video/archive/the-vortex)
 ![image](./Ronrolheiser.png)|[Ron Rolheiser](http://ronrolheiser.com/archive/)
+![image](./churchMilitant.png)|[The Vortex](https://www.churchmilitant.com/video/archive/the-vortex)
+
