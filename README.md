@@ -22,7 +22,7 @@ Organization | Link
 ![image](./wanderer.png)|[The Wanderer</a></td></tr>](http://thewandererpress.com/)
 
 ## Challenging Sites
-<table>
-<tr><td width=500px bgcolor='black'><img src='churchMilitant.png'></td><td><a href='https://www.churchmilitant.com/video/archive/the-vortex'>The Vortex</a></td></tr>
-<tr><td bgcolor=' #242c34'><img src='./Ronrolheiser.png'></td><td><a href='http://ronrolheiser.com/archive/'>Ron Rolheiser</a></td></tr>
-</table>
+Organization | Link
+------ | ---------
+![image](./churchMilitant.png)|[The Vortex](https://www.churchmilitant.com/video/archive/the-vortex)
+![image](./Ronrolheiser.png)|[Ron Rolheiser](http://ronrolheiser.com/archive/)
